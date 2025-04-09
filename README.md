@@ -83,7 +83,8 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 
 # OUTPUT
-![haufman op](https://github.com/user-attachments/assets/c999d22f-daba-4438-a6f9-3c1873f2c678)
+![haufman op 2](https://github.com/user-attachments/assets/34095cdb-be52-41ac-b8c5-4ecaffb9df2f)
+
 
 Average Codeword Length is : 2.625
 
